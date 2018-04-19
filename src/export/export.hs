@@ -8,7 +8,7 @@ import Control.Monad
 --
 -- Range of years to report. You would typically want all the years you have data for.
 --
-first   = 2017 :: Int
+first   = 2014 :: Int
 current = 2017
 all_years=[first..current]
 
