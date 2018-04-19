@@ -7,6 +7,6 @@
     expenses                        £3.72
 
 2016/04/09 (DEB) TRANSFER TO 12345678
-    assets:Lloyds:current          £-1000 = £0.0
-    assets:Lloyds:savings           £1000
+    assets:Lloyds:current            £-1000 = £0.0
+    assets:Lloyds:transfers           £1000
 

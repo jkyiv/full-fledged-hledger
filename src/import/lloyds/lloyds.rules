@@ -4,7 +4,6 @@ skip 1
 date-format %d/%m/%Y
 currency £
 
-account1  assets:Lloyds:current
 account2  expenses
 
 if
@@ -16,5 +15,5 @@ EMPLOYER INC
   account2   income:employer
 
 if
-TRANSFER TO 12345678
-  account2   assets:Lloyds:savings
+TRANSFER
+  account2   assets:Lloyds:transfers
