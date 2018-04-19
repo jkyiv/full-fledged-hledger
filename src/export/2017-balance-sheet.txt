@@ -1,12 +1,8 @@
 Balance Sheet
 
 Assets:
-            £2586.93  assets
-            £2586.93    Lloyds
-            £1086.93      current
-            £1500.00      savings
 --------------------
-            £2586.93
+                   0
 
 Liabilities:
 --------------------
@@ -14,5 +10,5 @@ Liabilities:
 
 Total:
 --------------------
-            £2586.93
+                   0
 
